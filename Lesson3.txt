@@ -1,4 +1,4 @@
-When would you want to use a remote repository rather than keeping all your work
+﻿When would you want to use a remote repository rather than keeping all your work
 local?
 
     Wenn man zusammen arbeitet möchte oder etwas öffentlich zugänglich machen möchte
@@ -16,8 +16,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
-
+    Wenn mehrere Leute an der gleiche Sache arbeiten, braucht man ab und an ein Update
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
